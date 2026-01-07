@@ -46,7 +46,5 @@ LeetCode 刷了 500 题，面试时还是被拒？因为你不会“讲”！
 
 👉 **WeChat: leechanx**
 或者直接扫码：
-<center class="half">
-  <img src="src/wechat.jpg" alt="编程作业代写" width="300" height="400"><img src="src/rednote.jpg" alt="编程作业代写" width="300" height="400">
-</center>
+<img src="src/wechat.jpg" alt="编程作业代写" width="300" height="400"><img src="src/rednote.jpg" alt="编程作业代写" width="300" height="400">
 *(添加备注 "求职/OA" 优先通过)*
