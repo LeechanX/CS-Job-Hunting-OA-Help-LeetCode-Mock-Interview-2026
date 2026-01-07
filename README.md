@@ -45,6 +45,8 @@ LeetCode 刷了 500 题，面试时还是被拒？因为你不会“讲”！
 **不管是 OA 急单，还是面试突击，随时滴滴！**
 
 👉 **WeChat: leechanx**
+---
 或者直接扫码：
 <img src="src/wechat.jpg" alt="编程作业代写" width="300" height="400"><img src="src/rednote.jpg" alt="编程作业代写" width="300" height="400">
+---
 *(添加备注 "求职/OA" 优先通过)*
